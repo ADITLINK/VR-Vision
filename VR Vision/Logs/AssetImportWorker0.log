@@ -1,0 +1,1289 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.62f3c1 (1623fc0bbb97) revision 1451004'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit ProfessionalWorkstation' Language: 'zh' Physical Memory: 16051 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\UNITY\2022.3.62f3c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Project/Unity/gitHub/VR-Vision-Demo/VR Vision
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61760
+Successfully changed project path to: D:/Project/Unity/gitHub/VR-Vision-Demo/VR Vision
+D:/Project/Unity/gitHub/VR-Vision-Demo/VR Vision
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3728]  Target information:
+
+Player connection [3728]  * "[IP] 192.168.2.143 [Port] 0 [Flags] 2 [Guid] 2394427374 [EditorId] 2394427374 [Version] 1048832 [Id] WindowsEditor(7,HP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3728] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3728] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Refreshing native plugins compatible for Editor in 9.82 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.62f3c1 (1623fc0bbb97)
+[Subsystems] Discovering subsystems at path D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Project/Unity/gitHub/VR-Vision-Demo/VR Vision/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.7703
+Initialize mono
+Mono path[0] = 'D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004241 seconds.
+- Loaded All Assemblies, in  0.295 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.249 seconds
+Domain Reload Profiling: 544ms
+	BeginReloadAssembly (85ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (124ms)
+		LoadAssemblies (85ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (121ms)
+			TypeCache.Refresh (120ms)
+				TypeCache.ScanAssembly (108ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (250ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (204ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.731 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PolySpatial.PolySpatialSettings.LoadPackageVersion () [0x00046] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:212 
+  at Unity.PolySpatial.PolySpatialSettings.InitializeInEditor () [0x0000b] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:194 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1071a2cb0cb3433aae80a793c277a048>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <31c98fd5b57049059bcc8967ad78980a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Active Input Handling is set to InputSystem, but no Plugin for VisionOS was found. Please install the missing InputSystem package extensions.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:ThrowWarningOnMissingPlugin () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:90)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:CheckForExtension () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:22)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs Line: 90)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.068 seconds
+Domain Reload Profiling: 1799ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (550ms)
+		LoadAssemblies (337ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (273ms)
+			TypeCache.Refresh (230ms)
+				TypeCache.ScanAssembly (210ms)
+			ScanForSourceGeneratedMonoScriptInfo (30ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1069ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (890ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (139ms)
+			ProcessInitializeOnLoadAttributes (624ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 8.82 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5703 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.8 MB). Loaded Objects now: 6215.
+Memory consumption went from 223.2 MB to 221.4 MB.
+Total: 7.189600 ms (FindLiveObjects: 0.517400 ms CreateObjectMapping: 0.315400 ms MarkObjects: 5.108400 ms  DeleteObjects: 1.246900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.755 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PolySpatial.PolySpatialSettings.LoadPackageVersion () [0x00046] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:212 
+  at Unity.PolySpatial.PolySpatialSettings.InitializeInEditor () [0x0000b] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:194 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1071a2cb0cb3433aae80a793c277a048>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <31c98fd5b57049059bcc8967ad78980a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Active Input Handling is set to InputSystem, but no Plugin for VisionOS was found. Please install the missing InputSystem package extensions.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:ThrowWarningOnMissingPlugin () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:90)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:CheckForExtension () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:22)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs Line: 90)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.651 seconds
+Domain Reload Profiling: 2404ms
+	BeginReloadAssembly (222ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (435ms)
+		LoadAssemblies (430ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (114ms)
+			TypeCache.Refresh (59ms)
+				TypeCache.ScanAssembly (45ms)
+			ScanForSourceGeneratedMonoScriptInfo (37ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1651ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1054ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (154ms)
+			ProcessInitializeOnLoadAttributes (779ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Script is not up to date after domain reload: guid(314a25cc39528e04699b22c4275a65e6) path("Assets/_Project/_Scripts/NewBehaviourScript.cs") state(2)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 14.85 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5572 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (1.6 MB). Loaded Objects now: 6220.
+Memory consumption went from 196.3 MB to 194.7 MB.
+Total: 13.193500 ms (FindLiveObjects: 0.632200 ms CreateObjectMapping: 0.434700 ms MarkObjects: 10.929300 ms  DeleteObjects: 1.195500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: 1a775ea7ebe6ee91a55fcd9f159eeebd -> dff3a5e3d2e750b79733c68dda740daa
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 71078916706fe8c92fa4a2c32bc5e981 -> 86183419535e375187b30a3762578554
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: 08a970020e0d9db5ad462b093310d91d -> c92ab8c5df14d125f81d8a6aa11553f0
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 683bbcb2410e346d7a735c5ea78eae28 -> 0c99915cc85610c8aa07a821d95f5c4d
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 6a0e941b04ab02cd9a64d173dd085bde -> 898d09e2ae7995590612a461468d4931
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 88d921e00722a095bdbdc1202ac4f837 -> d329e0436ea3757d45ec8cae198bba47
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: 8ba168cc84334eb63b7196020504ba92 -> f518b6574816de2472e535eaf8315248
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: 9dfa4d44b724b2631eb9bebac2c355e4 -> ecfd114d63bf0d449c41f7f6c6fbd5f2
+  custom:scripting/monoscript/fileName/EditorUtils.cs: 08c8127b949a74e38caa22be33810d04 -> f966c3bf4e805001f3e4853d3b884f73
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: d196d02c8a83e9a2d70fd8efa1d8456c -> dbd6d11b7437dd0337764ea711e27741
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 28a2dca93e9c97cb8bbb28dbd3c82139 -> 614f53f3378d527956cbb02e9ef4d0c6
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: d03ffa62ea72468cd6bcd5a503519099 -> adaf2ae3d3fb4c625dfb5150d3290bb4
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: d7819e0107e7229a7dafdbf3616223db -> 8fc062c0477f4d6714e20e8bad4aebcf
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: 8a7a762e7e38df425717649229752872 -> e83421b33155ae37d2c0a7e754ca69bc
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: 8c3cd139b1f42a8e6fef0434a6589232 -> a009f5fc4b39ebfe6ee20607ff6eb8b8
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 13bda3d0661d4bb8f8057495177701bb -> 758c8c41ef41be8a387763b06832b3c4
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: ba6ecc797fae94f9dd16d7cfc3e9cc6a -> ee7a4f9a9650d3c7f74eced4bfed8831
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 1d5cec5269daccb391aac9247cf988c8 -> 92363ef411ca3ab811a667b9e498049a
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 0098e10ed43e33645650c20781280854 -> 445d792a43dde51e930b7f6a9a75b03f
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: f7358c88fd28404a076d7d89a60dbbd0 -> a5da988eaeb4ec8c47ec6d3f399aae82
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: bbba9cb7d3cd444f460f4e2a2bd23098 -> d619c9ffdf67a2584c4c280b62801420
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: 63c18842b079abaaf2eb7c59c6f76d0f -> d89574041e110f94e351c59305ce1729
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: 51d17d7ce2a7b28cd5cb600f9e041442 -> fdb9be428c56110bf4ed66fc84f3e289
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: f75b2ccfd659c84567b178cf42cded12 -> 27ad0f59d0e93e7f397d852162dabbef
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: a598e988de1b8416012a9c5d618b3dc9 -> 9ee20e5672fe3bf1f84b928c077dd487
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 58d8fca85c83c5d96afb93727a418bee -> 3b21fcb478e01e192c765332f617d70d
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/StringDatum.cs: 2ef2b5d98245254c485ba6b55376980d -> d477c3d9644054c4cdbfe58cd4210fc0
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 0d9d5aa017e75851792d7a3dc47e0142 -> c3ffd9f04730b0453c42b2f446427770
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: bd9b402650ad9ffd3b3b9608e8c7393d -> 19f997bb849a2416cd94c1cb63aa4f77
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: e28c6f117485def57e8e2c7da45f83f0 -> 102f3fdbb4e7dadde0b1c3f60e974b6f
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: 043ab158474e243a3af20012c1c81808 -> fbf96efbf6aa08dd02986afafdd0cede
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 05cf1b14b0c96588177d54bc6664c7d6 -> 2fd2f508ff2826ba59792870d9c1f91d
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: d633d0c6cf1c719724be05a7c6747958 -> 2af944bee2b617e7ec6b3e7a0e3fadc8
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: f608b60409754446a14c4b22729178d3 -> 0136c7e06583b34e918f9531ef849871
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: b1a107335c6d4a1412ca0b25587bd25e -> ff60d9139f1c67e4ef14a932c8953dd3
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: e764e40d865d3f648c3d4f8c152c70c9 -> 3515ce5f59c8813c1b42365c62110624
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: d86dbc89342006a9c37dc5ef677cfb9d -> 22b86e6be82caa28b03f585d1da7a237
+  custom:scripting/monoscript/fileName/UndoBlock.cs: 683b950a45c3ba3a25800d5efc232f85 -> bc46b6201606aca58a8d08e7a8630eb5
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: fc49000e287471792b04da0c1ed32607 -> 084445b05dff6018ed26483427ba66b1
+  custom:scripting/monoscript/fileName/Datum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: aecb304631c393c67374beac43809b1e -> 328e21e115aab576f0c2cc1740fc8a41
+  custom:scripting/monoscript/fileName/GuidUtil.cs: 7d6be01d124ac212da8586a65063d07a -> f92f0341d94f269381d41631abcea62f
+  custom:scripting/monoscript/fileName/HashSetList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 8dfd5e246bd2e774c8ff08d540c99542 -> a8fc83e650240d5a63de35f6154211ed
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 5d97120a47e4bb2be4dce5b2f3eb68e6 -> 685579ed12ed358773bc7d3b51ac57c3
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 730efa76cb2f2ed86d5c5fbe6a8954d0 -> 51a572f09881fdb3c39d970c12b34b19
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: cf45dd8f9fa4fc94e0cfc2c90451f1ad -> 701dfba7f7aa88c832d5efa6a6401b52
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 445e268e48ac6ab30698ba457559c5d5 -> 8f48fdf9d37d552791296f3db18d7293
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 23f505d8d95d9435d72b9475aa36fb64 -> 96e72c8c385206675c182d08a61247f8
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: 010a959be325dc8a4ec3c1f02dab2564 -> c326bbe7a44f6ecb2a7d5ff8856f9cac
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: 6b2217df9bc13e21ffe13553d2fc8184 -> c2dd418db18ce47e0c417bface05337e
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2f8059a60f117317a8e8c837aa4677d3 -> 2bc994238684257d0f665045b3a43e06
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: a8aef652da271ab09422a13a6ad90330 -> ca0d817c6fa6ba59dd0d9d3d718f0246
+  custom:scripting/monoscript/fileName/XROrigin.cs: 5655393738d55d0b279e0968381fb5fd -> 6b2a8b745f3d38726455a3f4abd0a820
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e8c989280e2877facf9d2282ac5b4a84 -> 421192e5feb72b0eb79629b3f113c35d
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: 347a5d7bc6ead178c5073eefd793837d -> b1913ce2490a4f8dfdca5a234bf8dc5a
+  custom:scripting/monoscript/fileName/MathUtility.cs: ecc9c359cf0647b867ddbca0f78166eb -> 7101ed9f86b2bfdaf67ab4303cc98ede
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 71e0e2098b7ff66e84da64b23134771e -> 48d4b2c934ba9c4dfc71f5c1edd53049
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: d2f5ae6ae98898b8df93f740e9b4f830 -> c4213bb88259ca88e9173f72358828a5
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 5cadaec5893b7672cb286725f6acc002 -> e8827528b0f6229a8c0bcd12f1a15720
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 9ce1a3cb1a7793be9ceee29b12528d1a -> 89b608f8fd139ce8d12318c6ffc11310
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: 60031b38770ecfe0671ba4c202dfa724 -> d8a27b8787df350ae61a698ef53e5d49
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 8ad7eacebf5153dd4bc679725658252b -> 072e031db5bbf098e79987e2ab2e6415
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 1945df61e5cc6df1b859e245704f56c9 -> 81379e00ae2b5ce5cabbbaee7a2dcc3b
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: 8b7dc529856d504c92f2293ef092e0ad -> d6ff3f82563bc8b5b53669110b89ef7f
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: 177100052ffa6c0f81d91a34a7733418 -> aa0caa3b2cf92bd9fd4fb50854e801fa
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bd9ad379230c9eb18d1d8c44d9129503 -> 611b649e5b76c72f256c1fa17cb65915
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: c6a02f5c7233e9fc872415e7a7efc158 -> 2d9ed55d97ae69e39f7e3f328b4b572b
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/IntDatum.cs: cfb0aef05b7f81eae7736de31104143e -> eba3d5990e1ba42fccdc328943c9a374
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: a5bc1d18d6982a1f05f22b357dfc255d -> 7a5c2af227f416da1bff9c8980c8c67c
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: d6d449820c7b9b48d5965d8d1eb79ada -> 7ae964814ae51b3db69ee982b4487eb7
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: 15ddc77450faceef98df210c2a68e127 -> c3e8d16f0025fde8dfae950741c9e809
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: f713f1fe3e0ed2e08157e300fdde14af -> ee194275fc072b5305145812281b99b4
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: 3b0b8d46bf6737b564cc7ba3d9e6ae39 -> cf53e16640493eed09c0a9bcf5e6d26a
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: 5e2b1981a6626185f8efe176408b3d2a -> d35f98e49313ad0817835473a2d39b7f
+  custom:scripting/monoscript/fileName/BuildValidator.cs: fccf90c1003d806a2b7b8510402be9af -> c3aeddb666325043f13d5a964eeb8e0d
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 3aead3ea42ce2d74457699d1ce4f6e9a -> 5cab67c578494ca6880fc9efed7eda83
+  custom:scripting/monoscript/fileName/EventBinding.cs: ab61fca8f80fe4ed725c16ca83ff2ad6 -> 57939feae70c39d5d7b259d56a13d4da
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 37734bf0fd04da41ff0ae1a2c4706cf4 -> 69465d1ffaffee63daa703ad5e20aa30
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 56661a5e0e7e488b93f66899985b3e88 -> 301b8bc5f1c67ccc31545d311cc07034
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: ce07d292941660b4bfea097178c03097 -> bc8db2fc4add667bd74ebc1d7aeedf63
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: 51b038bc4e852c72ee65c7a4ded847c0 -> d832ed1fb4bcff52c32231feef759588
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: 2478f62897f9bc6719dd3de0a34b5d28 -> b8f84d6112ffc5b06d2d522a8c830bb0
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: c424a794ff5343e1a4d1deac8768c4f5 -> d95eb104a3ef3c6ae92507bce7881df3
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: f4106e217b7471899a43772a7539f916 -> 8dbcd6e4694a7a32290a3c4a4ec7effa
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: a4e10c64acb0ef940e82832217c6893c -> 3d475b7a59d03e48e843cee54ceb3c66
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: d51ecd082d1c3727bad04dc3e44b0081 -> 7a005b62071f13d631a735bf21acdb5f
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 1fe94a48488975b1213f20cc06be7d0e -> 0c9e3ca7d66e4634b955f155129c5358
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 2ca71424fc3faa3305b7504f47a75016 -> 9320588873bc402103b6c71239087d46
+  custom:scripting/monoscript/fileName/FloatDatum.cs: e4d15c550a5a13169d386339a3f48290 -> 6bf8df8dd116e6869317b96cc2832ced
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/PackageVersion.cs: b2f2b6988db73d24ca0d7f31dcc43abb -> 0f86b0866157a0dbfedd6e4123adccda
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: 4ea770391709186c9d1bd0968fd90e73 -> fc1b8263d625f16a6826517266eeadca
+  custom:scripting/monoscript/fileName/ListExtensions.cs: b7503261624f5e07b7528187b02adfaa -> 7aa01450824b139fec139620e85f6e1f
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: e68cefa459ba9b045d16c31ad91e14fb -> 77ae464d731fc089fa2dce81bad0a315
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: 18fa29af8143793e43df1ed9fc727d5b -> aa5c1a415a84802ad5740b78a5ea2ab8
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.568 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PolySpatial.PolySpatialSettings.LoadPackageVersion () [0x00046] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:212 
+  at Unity.PolySpatial.PolySpatialSettings.InitializeInEditor () [0x0000b] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:194 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1071a2cb0cb3433aae80a793c277a048>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <31c98fd5b57049059bcc8967ad78980a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Active Input Handling is set to InputSystem, but no Plugin for VisionOS was found. Please install the missing InputSystem package extensions.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:ThrowWarningOnMissingPlugin () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:90)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:CheckForExtension () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:22)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs Line: 90)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.595 seconds
+Domain Reload Profiling: 2162ms
+	BeginReloadAssembly (167ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (339ms)
+		LoadAssemblies (351ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (70ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (39ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1595ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (944ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (169ms)
+			ProcessInitializeOnLoadAttributes (660ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 10.93 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5573 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (1.8 MB). Loaded Objects now: 6226.
+Memory consumption went from 196.5 MB to 194.7 MB.
+Total: 6.789900 ms (FindLiveObjects: 0.570700 ms CreateObjectMapping: 0.296600 ms MarkObjects: 4.881100 ms  DeleteObjects: 1.039900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: 1a775ea7ebe6ee91a55fcd9f159eeebd -> dff3a5e3d2e750b79733c68dda740daa
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 71078916706fe8c92fa4a2c32bc5e981 -> 86183419535e375187b30a3762578554
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: 08a970020e0d9db5ad462b093310d91d -> c92ab8c5df14d125f81d8a6aa11553f0
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 683bbcb2410e346d7a735c5ea78eae28 -> 0c99915cc85610c8aa07a821d95f5c4d
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 6a0e941b04ab02cd9a64d173dd085bde -> 898d09e2ae7995590612a461468d4931
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 88d921e00722a095bdbdc1202ac4f837 -> d329e0436ea3757d45ec8cae198bba47
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: 8ba168cc84334eb63b7196020504ba92 -> f518b6574816de2472e535eaf8315248
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: 9dfa4d44b724b2631eb9bebac2c355e4 -> ecfd114d63bf0d449c41f7f6c6fbd5f2
+  custom:scripting/monoscript/fileName/EditorUtils.cs: 08c8127b949a74e38caa22be33810d04 -> f966c3bf4e805001f3e4853d3b884f73
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: d196d02c8a83e9a2d70fd8efa1d8456c -> dbd6d11b7437dd0337764ea711e27741
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 28a2dca93e9c97cb8bbb28dbd3c82139 -> 614f53f3378d527956cbb02e9ef4d0c6
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: d03ffa62ea72468cd6bcd5a503519099 -> adaf2ae3d3fb4c625dfb5150d3290bb4
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: d7819e0107e7229a7dafdbf3616223db -> 8fc062c0477f4d6714e20e8bad4aebcf
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: 8a7a762e7e38df425717649229752872 -> e83421b33155ae37d2c0a7e754ca69bc
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: 8c3cd139b1f42a8e6fef0434a6589232 -> a009f5fc4b39ebfe6ee20607ff6eb8b8
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 13bda3d0661d4bb8f8057495177701bb -> 758c8c41ef41be8a387763b06832b3c4
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: ba6ecc797fae94f9dd16d7cfc3e9cc6a -> ee7a4f9a9650d3c7f74eced4bfed8831
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/NewBehaviourScript.cs: b21687ddb03d73bd9f0c1daecb9714de -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 1d5cec5269daccb391aac9247cf988c8 -> 92363ef411ca3ab811a667b9e498049a
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 0098e10ed43e33645650c20781280854 -> 445d792a43dde51e930b7f6a9a75b03f
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: f7358c88fd28404a076d7d89a60dbbd0 -> a5da988eaeb4ec8c47ec6d3f399aae82
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: bbba9cb7d3cd444f460f4e2a2bd23098 -> d619c9ffdf67a2584c4c280b62801420
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: 63c18842b079abaaf2eb7c59c6f76d0f -> d89574041e110f94e351c59305ce1729
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: 51d17d7ce2a7b28cd5cb600f9e041442 -> fdb9be428c56110bf4ed66fc84f3e289
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: f75b2ccfd659c84567b178cf42cded12 -> 27ad0f59d0e93e7f397d852162dabbef
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: a598e988de1b8416012a9c5d618b3dc9 -> 9ee20e5672fe3bf1f84b928c077dd487
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 58d8fca85c83c5d96afb93727a418bee -> 3b21fcb478e01e192c765332f617d70d
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/StringDatum.cs: 2ef2b5d98245254c485ba6b55376980d -> d477c3d9644054c4cdbfe58cd4210fc0
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 0d9d5aa017e75851792d7a3dc47e0142 -> c3ffd9f04730b0453c42b2f446427770
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: bd9b402650ad9ffd3b3b9608e8c7393d -> 19f997bb849a2416cd94c1cb63aa4f77
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: e28c6f117485def57e8e2c7da45f83f0 -> 102f3fdbb4e7dadde0b1c3f60e974b6f
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: 043ab158474e243a3af20012c1c81808 -> fbf96efbf6aa08dd02986afafdd0cede
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 05cf1b14b0c96588177d54bc6664c7d6 -> 2fd2f508ff2826ba59792870d9c1f91d
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: d633d0c6cf1c719724be05a7c6747958 -> 2af944bee2b617e7ec6b3e7a0e3fadc8
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: f608b60409754446a14c4b22729178d3 -> 0136c7e06583b34e918f9531ef849871
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: b1a107335c6d4a1412ca0b25587bd25e -> ff60d9139f1c67e4ef14a932c8953dd3
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: e764e40d865d3f648c3d4f8c152c70c9 -> 3515ce5f59c8813c1b42365c62110624
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: d86dbc89342006a9c37dc5ef677cfb9d -> 22b86e6be82caa28b03f585d1da7a237
+  custom:scripting/monoscript/fileName/UndoBlock.cs: 683b950a45c3ba3a25800d5efc232f85 -> bc46b6201606aca58a8d08e7a8630eb5
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: fc49000e287471792b04da0c1ed32607 -> 084445b05dff6018ed26483427ba66b1
+  custom:scripting/monoscript/fileName/Datum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: aecb304631c393c67374beac43809b1e -> 328e21e115aab576f0c2cc1740fc8a41
+  custom:scripting/monoscript/fileName/GuidUtil.cs: 7d6be01d124ac212da8586a65063d07a -> f92f0341d94f269381d41631abcea62f
+  custom:scripting/monoscript/fileName/HashSetList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 8dfd5e246bd2e774c8ff08d540c99542 -> a8fc83e650240d5a63de35f6154211ed
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 5d97120a47e4bb2be4dce5b2f3eb68e6 -> 685579ed12ed358773bc7d3b51ac57c3
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 730efa76cb2f2ed86d5c5fbe6a8954d0 -> 51a572f09881fdb3c39d970c12b34b19
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: cf45dd8f9fa4fc94e0cfc2c90451f1ad -> 701dfba7f7aa88c832d5efa6a6401b52
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 445e268e48ac6ab30698ba457559c5d5 -> 8f48fdf9d37d552791296f3db18d7293
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 23f505d8d95d9435d72b9475aa36fb64 -> 96e72c8c385206675c182d08a61247f8
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: 010a959be325dc8a4ec3c1f02dab2564 -> c326bbe7a44f6ecb2a7d5ff8856f9cac
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: 6b2217df9bc13e21ffe13553d2fc8184 -> c2dd418db18ce47e0c417bface05337e
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2f8059a60f117317a8e8c837aa4677d3 -> 2bc994238684257d0f665045b3a43e06
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: a8aef652da271ab09422a13a6ad90330 -> ca0d817c6fa6ba59dd0d9d3d718f0246
+  custom:scripting/monoscript/fileName/XROrigin.cs: 5655393738d55d0b279e0968381fb5fd -> 6b2a8b745f3d38726455a3f4abd0a820
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e8c989280e2877facf9d2282ac5b4a84 -> 421192e5feb72b0eb79629b3f113c35d
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: 347a5d7bc6ead178c5073eefd793837d -> b1913ce2490a4f8dfdca5a234bf8dc5a
+  custom:scripting/monoscript/fileName/MathUtility.cs: ecc9c359cf0647b867ddbca0f78166eb -> 7101ed9f86b2bfdaf67ab4303cc98ede
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 71e0e2098b7ff66e84da64b23134771e -> 48d4b2c934ba9c4dfc71f5c1edd53049
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: d2f5ae6ae98898b8df93f740e9b4f830 -> c4213bb88259ca88e9173f72358828a5
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 5cadaec5893b7672cb286725f6acc002 -> e8827528b0f6229a8c0bcd12f1a15720
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 9ce1a3cb1a7793be9ceee29b12528d1a -> 89b608f8fd139ce8d12318c6ffc11310
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: 60031b38770ecfe0671ba4c202dfa724 -> d8a27b8787df350ae61a698ef53e5d49
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 8ad7eacebf5153dd4bc679725658252b -> 072e031db5bbf098e79987e2ab2e6415
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 1945df61e5cc6df1b859e245704f56c9 -> 81379e00ae2b5ce5cabbbaee7a2dcc3b
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: 8b7dc529856d504c92f2293ef092e0ad -> d6ff3f82563bc8b5b53669110b89ef7f
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: 177100052ffa6c0f81d91a34a7733418 -> aa0caa3b2cf92bd9fd4fb50854e801fa
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bd9ad379230c9eb18d1d8c44d9129503 -> 611b649e5b76c72f256c1fa17cb65915
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: c6a02f5c7233e9fc872415e7a7efc158 -> 2d9ed55d97ae69e39f7e3f328b4b572b
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/IntDatum.cs: cfb0aef05b7f81eae7736de31104143e -> eba3d5990e1ba42fccdc328943c9a374
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: a5bc1d18d6982a1f05f22b357dfc255d -> 7a5c2af227f416da1bff9c8980c8c67c
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: d6d449820c7b9b48d5965d8d1eb79ada -> 7ae964814ae51b3db69ee982b4487eb7
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: 15ddc77450faceef98df210c2a68e127 -> c3e8d16f0025fde8dfae950741c9e809
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: f713f1fe3e0ed2e08157e300fdde14af -> ee194275fc072b5305145812281b99b4
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: 3b0b8d46bf6737b564cc7ba3d9e6ae39 -> cf53e16640493eed09c0a9bcf5e6d26a
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: 5e2b1981a6626185f8efe176408b3d2a -> d35f98e49313ad0817835473a2d39b7f
+  custom:scripting/monoscript/fileName/BuildValidator.cs: fccf90c1003d806a2b7b8510402be9af -> c3aeddb666325043f13d5a964eeb8e0d
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 3aead3ea42ce2d74457699d1ce4f6e9a -> 5cab67c578494ca6880fc9efed7eda83
+  custom:scripting/monoscript/fileName/EventBinding.cs: ab61fca8f80fe4ed725c16ca83ff2ad6 -> 57939feae70c39d5d7b259d56a13d4da
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 37734bf0fd04da41ff0ae1a2c4706cf4 -> 69465d1ffaffee63daa703ad5e20aa30
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 56661a5e0e7e488b93f66899985b3e88 -> 301b8bc5f1c67ccc31545d311cc07034
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: ce07d292941660b4bfea097178c03097 -> bc8db2fc4add667bd74ebc1d7aeedf63
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: 51b038bc4e852c72ee65c7a4ded847c0 -> d832ed1fb4bcff52c32231feef759588
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: 2478f62897f9bc6719dd3de0a34b5d28 -> b8f84d6112ffc5b06d2d522a8c830bb0
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: c424a794ff5343e1a4d1deac8768c4f5 -> d95eb104a3ef3c6ae92507bce7881df3
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: f4106e217b7471899a43772a7539f916 -> 8dbcd6e4694a7a32290a3c4a4ec7effa
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: a4e10c64acb0ef940e82832217c6893c -> 3d475b7a59d03e48e843cee54ceb3c66
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: d51ecd082d1c3727bad04dc3e44b0081 -> 7a005b62071f13d631a735bf21acdb5f
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 1fe94a48488975b1213f20cc06be7d0e -> 0c9e3ca7d66e4634b955f155129c5358
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 2ca71424fc3faa3305b7504f47a75016 -> 9320588873bc402103b6c71239087d46
+  custom:scripting/monoscript/fileName/FloatDatum.cs: e4d15c550a5a13169d386339a3f48290 -> 6bf8df8dd116e6869317b96cc2832ced
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: d00150b66dfeea17972445a1b5e953e8 -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: b2f2b6988db73d24ca0d7f31dcc43abb -> 0f86b0866157a0dbfedd6e4123adccda
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: 4ea770391709186c9d1bd0968fd90e73 -> fc1b8263d625f16a6826517266eeadca
+  custom:scripting/monoscript/fileName/ListExtensions.cs: b7503261624f5e07b7528187b02adfaa -> 7aa01450824b139fec139620e85f6e1f
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: e68cefa459ba9b045d16c31ad91e14fb -> 77ae464d731fc089fa2dce81bad0a315
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: 18fa29af8143793e43df1ed9fc727d5b -> aa5c1a415a84802ad5740b78a5ea2ab8
+========================================================================
+Received Import Request.
+  Time since last request: 12123.095760 seconds.
+  path: Assets/_Project/_Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(314a25cc39528e04699b22c4275a65e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/_Scripts/NewBehaviourScript.cs using Guid(314a25cc39528e04699b22c4275a65e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '8e292bda4469676469b302ca25d30d23') in 0.003701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 87.114052 seconds.
+  path: Assets/_Project/_Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(314a25cc39528e04699b22c4275a65e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/_Scripts/NewBehaviourScript.cs using Guid(314a25cc39528e04699b22c4275a65e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5b437cc323d24d5dadd387154d57c511') in 0.001061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.725 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PolySpatial.PolySpatialSettings.LoadPackageVersion () [0x00046] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:212 
+  at Unity.PolySpatial.PolySpatialSettings.InitializeInEditor () [0x0000b] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:194 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1071a2cb0cb3433aae80a793c277a048>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <31c98fd5b57049059bcc8967ad78980a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Active Input Handling is set to InputSystem, but no Plugin for VisionOS was found. Please install the missing InputSystem package extensions.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:ThrowWarningOnMissingPlugin () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:90)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:CheckForExtension () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:22)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs Line: 90)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.472 seconds
+Domain Reload Profiling: 3196ms
+	BeginReloadAssembly (201ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (448ms)
+		LoadAssemblies (475ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (78ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (44ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2472ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1174ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (232ms)
+			ProcessInitializeOnLoadAttributes (811ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 17.00 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5573 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (1.8 MB). Loaded Objects now: 6231.
+Memory consumption went from 196.5 MB to 194.8 MB.
+Total: 13.421100 ms (FindLiveObjects: 0.521300 ms CreateObjectMapping: 0.435300 ms MarkObjects: 11.207700 ms  DeleteObjects: 1.254700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: 1a775ea7ebe6ee91a55fcd9f159eeebd -> dff3a5e3d2e750b79733c68dda740daa
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 71078916706fe8c92fa4a2c32bc5e981 -> 86183419535e375187b30a3762578554
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: 08a970020e0d9db5ad462b093310d91d -> c92ab8c5df14d125f81d8a6aa11553f0
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 683bbcb2410e346d7a735c5ea78eae28 -> 0c99915cc85610c8aa07a821d95f5c4d
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 6a0e941b04ab02cd9a64d173dd085bde -> 898d09e2ae7995590612a461468d4931
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 88d921e00722a095bdbdc1202ac4f837 -> d329e0436ea3757d45ec8cae198bba47
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: 8ba168cc84334eb63b7196020504ba92 -> f518b6574816de2472e535eaf8315248
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: 9dfa4d44b724b2631eb9bebac2c355e4 -> ecfd114d63bf0d449c41f7f6c6fbd5f2
+  custom:scripting/monoscript/fileName/EditorUtils.cs: 08c8127b949a74e38caa22be33810d04 -> f966c3bf4e805001f3e4853d3b884f73
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: d196d02c8a83e9a2d70fd8efa1d8456c -> dbd6d11b7437dd0337764ea711e27741
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 28a2dca93e9c97cb8bbb28dbd3c82139 -> 614f53f3378d527956cbb02e9ef4d0c6
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: d03ffa62ea72468cd6bcd5a503519099 -> adaf2ae3d3fb4c625dfb5150d3290bb4
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: d7819e0107e7229a7dafdbf3616223db -> 8fc062c0477f4d6714e20e8bad4aebcf
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: 8a7a762e7e38df425717649229752872 -> e83421b33155ae37d2c0a7e754ca69bc
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: 8c3cd139b1f42a8e6fef0434a6589232 -> a009f5fc4b39ebfe6ee20607ff6eb8b8
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 13bda3d0661d4bb8f8057495177701bb -> 758c8c41ef41be8a387763b06832b3c4
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: ba6ecc797fae94f9dd16d7cfc3e9cc6a -> ee7a4f9a9650d3c7f74eced4bfed8831
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/NewBehaviourScript.cs: b21687ddb03d73bd9f0c1daecb9714de -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 1d5cec5269daccb391aac9247cf988c8 -> 92363ef411ca3ab811a667b9e498049a
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 0098e10ed43e33645650c20781280854 -> 445d792a43dde51e930b7f6a9a75b03f
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: f7358c88fd28404a076d7d89a60dbbd0 -> a5da988eaeb4ec8c47ec6d3f399aae82
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: bbba9cb7d3cd444f460f4e2a2bd23098 -> d619c9ffdf67a2584c4c280b62801420
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: 63c18842b079abaaf2eb7c59c6f76d0f -> d89574041e110f94e351c59305ce1729
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: 51d17d7ce2a7b28cd5cb600f9e041442 -> fdb9be428c56110bf4ed66fc84f3e289
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: f75b2ccfd659c84567b178cf42cded12 -> 27ad0f59d0e93e7f397d852162dabbef
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: a598e988de1b8416012a9c5d618b3dc9 -> 9ee20e5672fe3bf1f84b928c077dd487
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 58d8fca85c83c5d96afb93727a418bee -> 3b21fcb478e01e192c765332f617d70d
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/StringDatum.cs: 2ef2b5d98245254c485ba6b55376980d -> d477c3d9644054c4cdbfe58cd4210fc0
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 0d9d5aa017e75851792d7a3dc47e0142 -> c3ffd9f04730b0453c42b2f446427770
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: bd9b402650ad9ffd3b3b9608e8c7393d -> 19f997bb849a2416cd94c1cb63aa4f77
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: e28c6f117485def57e8e2c7da45f83f0 -> 102f3fdbb4e7dadde0b1c3f60e974b6f
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: 043ab158474e243a3af20012c1c81808 -> fbf96efbf6aa08dd02986afafdd0cede
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 05cf1b14b0c96588177d54bc6664c7d6 -> 2fd2f508ff2826ba59792870d9c1f91d
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: d633d0c6cf1c719724be05a7c6747958 -> 2af944bee2b617e7ec6b3e7a0e3fadc8
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: f608b60409754446a14c4b22729178d3 -> 0136c7e06583b34e918f9531ef849871
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: b1a107335c6d4a1412ca0b25587bd25e -> ff60d9139f1c67e4ef14a932c8953dd3
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: e764e40d865d3f648c3d4f8c152c70c9 -> 3515ce5f59c8813c1b42365c62110624
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: d86dbc89342006a9c37dc5ef677cfb9d -> 22b86e6be82caa28b03f585d1da7a237
+  custom:scripting/monoscript/fileName/UndoBlock.cs: 683b950a45c3ba3a25800d5efc232f85 -> bc46b6201606aca58a8d08e7a8630eb5
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: fc49000e287471792b04da0c1ed32607 -> 084445b05dff6018ed26483427ba66b1
+  custom:scripting/monoscript/fileName/Datum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: aecb304631c393c67374beac43809b1e -> 328e21e115aab576f0c2cc1740fc8a41
+  custom:scripting/monoscript/fileName/GuidUtil.cs: 7d6be01d124ac212da8586a65063d07a -> f92f0341d94f269381d41631abcea62f
+  custom:scripting/monoscript/fileName/HashSetList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 8dfd5e246bd2e774c8ff08d540c99542 -> a8fc83e650240d5a63de35f6154211ed
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 5d97120a47e4bb2be4dce5b2f3eb68e6 -> 685579ed12ed358773bc7d3b51ac57c3
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 730efa76cb2f2ed86d5c5fbe6a8954d0 -> 51a572f09881fdb3c39d970c12b34b19
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: cf45dd8f9fa4fc94e0cfc2c90451f1ad -> 701dfba7f7aa88c832d5efa6a6401b52
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 445e268e48ac6ab30698ba457559c5d5 -> 8f48fdf9d37d552791296f3db18d7293
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 23f505d8d95d9435d72b9475aa36fb64 -> 96e72c8c385206675c182d08a61247f8
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: 010a959be325dc8a4ec3c1f02dab2564 -> c326bbe7a44f6ecb2a7d5ff8856f9cac
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: 6b2217df9bc13e21ffe13553d2fc8184 -> c2dd418db18ce47e0c417bface05337e
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2f8059a60f117317a8e8c837aa4677d3 -> 2bc994238684257d0f665045b3a43e06
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: a8aef652da271ab09422a13a6ad90330 -> ca0d817c6fa6ba59dd0d9d3d718f0246
+  custom:scripting/monoscript/fileName/XROrigin.cs: 5655393738d55d0b279e0968381fb5fd -> 6b2a8b745f3d38726455a3f4abd0a820
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e8c989280e2877facf9d2282ac5b4a84 -> 421192e5feb72b0eb79629b3f113c35d
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: 347a5d7bc6ead178c5073eefd793837d -> b1913ce2490a4f8dfdca5a234bf8dc5a
+  custom:scripting/monoscript/fileName/MathUtility.cs: ecc9c359cf0647b867ddbca0f78166eb -> 7101ed9f86b2bfdaf67ab4303cc98ede
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 71e0e2098b7ff66e84da64b23134771e -> 48d4b2c934ba9c4dfc71f5c1edd53049
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: d2f5ae6ae98898b8df93f740e9b4f830 -> c4213bb88259ca88e9173f72358828a5
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 5cadaec5893b7672cb286725f6acc002 -> e8827528b0f6229a8c0bcd12f1a15720
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 9ce1a3cb1a7793be9ceee29b12528d1a -> 89b608f8fd139ce8d12318c6ffc11310
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: 60031b38770ecfe0671ba4c202dfa724 -> d8a27b8787df350ae61a698ef53e5d49
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 8ad7eacebf5153dd4bc679725658252b -> 072e031db5bbf098e79987e2ab2e6415
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 1945df61e5cc6df1b859e245704f56c9 -> 81379e00ae2b5ce5cabbbaee7a2dcc3b
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: 8b7dc529856d504c92f2293ef092e0ad -> d6ff3f82563bc8b5b53669110b89ef7f
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: 177100052ffa6c0f81d91a34a7733418 -> aa0caa3b2cf92bd9fd4fb50854e801fa
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bd9ad379230c9eb18d1d8c44d9129503 -> 611b649e5b76c72f256c1fa17cb65915
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: c6a02f5c7233e9fc872415e7a7efc158 -> 2d9ed55d97ae69e39f7e3f328b4b572b
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/IntDatum.cs: cfb0aef05b7f81eae7736de31104143e -> eba3d5990e1ba42fccdc328943c9a374
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: a5bc1d18d6982a1f05f22b357dfc255d -> 7a5c2af227f416da1bff9c8980c8c67c
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: d6d449820c7b9b48d5965d8d1eb79ada -> 7ae964814ae51b3db69ee982b4487eb7
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: 15ddc77450faceef98df210c2a68e127 -> c3e8d16f0025fde8dfae950741c9e809
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: f713f1fe3e0ed2e08157e300fdde14af -> ee194275fc072b5305145812281b99b4
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: 3b0b8d46bf6737b564cc7ba3d9e6ae39 -> cf53e16640493eed09c0a9bcf5e6d26a
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: 5e2b1981a6626185f8efe176408b3d2a -> d35f98e49313ad0817835473a2d39b7f
+  custom:scripting/monoscript/fileName/BuildValidator.cs: fccf90c1003d806a2b7b8510402be9af -> c3aeddb666325043f13d5a964eeb8e0d
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 3aead3ea42ce2d74457699d1ce4f6e9a -> 5cab67c578494ca6880fc9efed7eda83
+  custom:scripting/monoscript/fileName/EventBinding.cs: ab61fca8f80fe4ed725c16ca83ff2ad6 -> 57939feae70c39d5d7b259d56a13d4da
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 37734bf0fd04da41ff0ae1a2c4706cf4 -> 69465d1ffaffee63daa703ad5e20aa30
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 56661a5e0e7e488b93f66899985b3e88 -> 301b8bc5f1c67ccc31545d311cc07034
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: ce07d292941660b4bfea097178c03097 -> bc8db2fc4add667bd74ebc1d7aeedf63
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: 51b038bc4e852c72ee65c7a4ded847c0 -> d832ed1fb4bcff52c32231feef759588
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: 2478f62897f9bc6719dd3de0a34b5d28 -> b8f84d6112ffc5b06d2d522a8c830bb0
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: c424a794ff5343e1a4d1deac8768c4f5 -> d95eb104a3ef3c6ae92507bce7881df3
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: f4106e217b7471899a43772a7539f916 -> 8dbcd6e4694a7a32290a3c4a4ec7effa
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: a4e10c64acb0ef940e82832217c6893c -> 3d475b7a59d03e48e843cee54ceb3c66
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: d51ecd082d1c3727bad04dc3e44b0081 -> 7a005b62071f13d631a735bf21acdb5f
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 1fe94a48488975b1213f20cc06be7d0e -> 0c9e3ca7d66e4634b955f155129c5358
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 2ca71424fc3faa3305b7504f47a75016 -> 9320588873bc402103b6c71239087d46
+  custom:scripting/monoscript/fileName/FloatDatum.cs: e4d15c550a5a13169d386339a3f48290 -> 6bf8df8dd116e6869317b96cc2832ced
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: d00150b66dfeea17972445a1b5e953e8 -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: b2f2b6988db73d24ca0d7f31dcc43abb -> 0f86b0866157a0dbfedd6e4123adccda
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: 4ea770391709186c9d1bd0968fd90e73 -> fc1b8263d625f16a6826517266eeadca
+  custom:scripting/monoscript/fileName/ListExtensions.cs: b7503261624f5e07b7528187b02adfaa -> 7aa01450824b139fec139620e85f6e1f
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: e68cefa459ba9b045d16c31ad91e14fb -> 77ae464d731fc089fa2dce81bad0a315
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: 18fa29af8143793e43df1ed9fc727d5b -> aa5c1a415a84802ad5740b78a5ea2ab8
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.483 seconds
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Program Files/UNITY/2022.3.62f3c1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PolySpatial.PolySpatialSettings.LoadPackageVersion () [0x00046] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:212 
+  at Unity.PolySpatial.PolySpatialSettings.InitializeInEditor () [0x0000b] in .\Library\PackageCache\com.unity.polyspatial@1.3.12\Runtime\Public\PolySpatialSettingsForEditor.cs:194 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1071a2cb0cb3433aae80a793c277a048>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <31c98fd5b57049059bcc8967ad78980a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Active Input Handling is set to InputSystem, but no Plugin for VisionOS was found. Please install the missing InputSystem package extensions.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:ThrowWarningOnMissingPlugin () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:90)
+UnityEngine.InputSystem.Editor.InputSystemPluginControl:CheckForExtension () (at ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs:22)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Editor/InputSystemPluginControl.cs Line: 90)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.180 seconds
+Domain Reload Profiling: 1662ms
+	BeginReloadAssembly (144ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (280ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (55ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1180ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (796ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (133ms)
+			ProcessInitializeOnLoadAttributes (561ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 5.26 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5572 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (1.8 MB). Loaded Objects now: 6235.
+Memory consumption went from 196.5 MB to 194.7 MB.
+Total: 6.697500 ms (FindLiveObjects: 0.634200 ms CreateObjectMapping: 0.340200 ms MarkObjects: 4.909900 ms  DeleteObjects: 0.811300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: 1a775ea7ebe6ee91a55fcd9f159eeebd -> dff3a5e3d2e750b79733c68dda740daa
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 71078916706fe8c92fa4a2c32bc5e981 -> 86183419535e375187b30a3762578554
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: 08a970020e0d9db5ad462b093310d91d -> c92ab8c5df14d125f81d8a6aa11553f0
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 683bbcb2410e346d7a735c5ea78eae28 -> 0c99915cc85610c8aa07a821d95f5c4d
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 6a0e941b04ab02cd9a64d173dd085bde -> 898d09e2ae7995590612a461468d4931
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 88d921e00722a095bdbdc1202ac4f837 -> d329e0436ea3757d45ec8cae198bba47
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: 8ba168cc84334eb63b7196020504ba92 -> f518b6574816de2472e535eaf8315248
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: 9dfa4d44b724b2631eb9bebac2c355e4 -> ecfd114d63bf0d449c41f7f6c6fbd5f2
+  custom:scripting/monoscript/fileName/EditorUtils.cs: 08c8127b949a74e38caa22be33810d04 -> f966c3bf4e805001f3e4853d3b884f73
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: d196d02c8a83e9a2d70fd8efa1d8456c -> dbd6d11b7437dd0337764ea711e27741
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 28a2dca93e9c97cb8bbb28dbd3c82139 -> 614f53f3378d527956cbb02e9ef4d0c6
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: d03ffa62ea72468cd6bcd5a503519099 -> adaf2ae3d3fb4c625dfb5150d3290bb4
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: d7819e0107e7229a7dafdbf3616223db -> 8fc062c0477f4d6714e20e8bad4aebcf
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: 8a7a762e7e38df425717649229752872 -> e83421b33155ae37d2c0a7e754ca69bc
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: 8c3cd139b1f42a8e6fef0434a6589232 -> a009f5fc4b39ebfe6ee20607ff6eb8b8
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 13bda3d0661d4bb8f8057495177701bb -> 758c8c41ef41be8a387763b06832b3c4
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: ba6ecc797fae94f9dd16d7cfc3e9cc6a -> ee7a4f9a9650d3c7f74eced4bfed8831
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/NewBehaviourScript.cs: b21687ddb03d73bd9f0c1daecb9714de -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 1d5cec5269daccb391aac9247cf988c8 -> 92363ef411ca3ab811a667b9e498049a
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 0098e10ed43e33645650c20781280854 -> 445d792a43dde51e930b7f6a9a75b03f
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: f7358c88fd28404a076d7d89a60dbbd0 -> a5da988eaeb4ec8c47ec6d3f399aae82
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: bbba9cb7d3cd444f460f4e2a2bd23098 -> d619c9ffdf67a2584c4c280b62801420
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: 63c18842b079abaaf2eb7c59c6f76d0f -> d89574041e110f94e351c59305ce1729
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: 51d17d7ce2a7b28cd5cb600f9e041442 -> fdb9be428c56110bf4ed66fc84f3e289
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: f75b2ccfd659c84567b178cf42cded12 -> 27ad0f59d0e93e7f397d852162dabbef
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: a598e988de1b8416012a9c5d618b3dc9 -> 9ee20e5672fe3bf1f84b928c077dd487
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 58d8fca85c83c5d96afb93727a418bee -> 3b21fcb478e01e192c765332f617d70d
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/StringDatum.cs: 2ef2b5d98245254c485ba6b55376980d -> d477c3d9644054c4cdbfe58cd4210fc0
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 0d9d5aa017e75851792d7a3dc47e0142 -> c3ffd9f04730b0453c42b2f446427770
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: bd9b402650ad9ffd3b3b9608e8c7393d -> 19f997bb849a2416cd94c1cb63aa4f77
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: e28c6f117485def57e8e2c7da45f83f0 -> 102f3fdbb4e7dadde0b1c3f60e974b6f
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: 043ab158474e243a3af20012c1c81808 -> fbf96efbf6aa08dd02986afafdd0cede
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 05cf1b14b0c96588177d54bc6664c7d6 -> 2fd2f508ff2826ba59792870d9c1f91d
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: d633d0c6cf1c719724be05a7c6747958 -> 2af944bee2b617e7ec6b3e7a0e3fadc8
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: f608b60409754446a14c4b22729178d3 -> 0136c7e06583b34e918f9531ef849871
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: b1a107335c6d4a1412ca0b25587bd25e -> ff60d9139f1c67e4ef14a932c8953dd3
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: e764e40d865d3f648c3d4f8c152c70c9 -> 3515ce5f59c8813c1b42365c62110624
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: d86dbc89342006a9c37dc5ef677cfb9d -> 22b86e6be82caa28b03f585d1da7a237
+  custom:scripting/monoscript/fileName/UndoBlock.cs: 683b950a45c3ba3a25800d5efc232f85 -> bc46b6201606aca58a8d08e7a8630eb5
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: fc49000e287471792b04da0c1ed32607 -> 084445b05dff6018ed26483427ba66b1
+  custom:scripting/monoscript/fileName/Datum.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: aecb304631c393c67374beac43809b1e -> 328e21e115aab576f0c2cc1740fc8a41
+  custom:scripting/monoscript/fileName/GuidUtil.cs: 7d6be01d124ac212da8586a65063d07a -> f92f0341d94f269381d41631abcea62f
+  custom:scripting/monoscript/fileName/HashSetList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 8dfd5e246bd2e774c8ff08d540c99542 -> a8fc83e650240d5a63de35f6154211ed
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 5d97120a47e4bb2be4dce5b2f3eb68e6 -> 685579ed12ed358773bc7d3b51ac57c3
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 730efa76cb2f2ed86d5c5fbe6a8954d0 -> 51a572f09881fdb3c39d970c12b34b19
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: cf45dd8f9fa4fc94e0cfc2c90451f1ad -> 701dfba7f7aa88c832d5efa6a6401b52
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 445e268e48ac6ab30698ba457559c5d5 -> 8f48fdf9d37d552791296f3db18d7293
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 23f505d8d95d9435d72b9475aa36fb64 -> 96e72c8c385206675c182d08a61247f8
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: 010a959be325dc8a4ec3c1f02dab2564 -> c326bbe7a44f6ecb2a7d5ff8856f9cac
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: 6b2217df9bc13e21ffe13553d2fc8184 -> c2dd418db18ce47e0c417bface05337e
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2f8059a60f117317a8e8c837aa4677d3 -> 2bc994238684257d0f665045b3a43e06
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: a8aef652da271ab09422a13a6ad90330 -> ca0d817c6fa6ba59dd0d9d3d718f0246
+  custom:scripting/monoscript/fileName/XROrigin.cs: 5655393738d55d0b279e0968381fb5fd -> 6b2a8b745f3d38726455a3f4abd0a820
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e8c989280e2877facf9d2282ac5b4a84 -> 421192e5feb72b0eb79629b3f113c35d
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: 347a5d7bc6ead178c5073eefd793837d -> b1913ce2490a4f8dfdca5a234bf8dc5a
+  custom:scripting/monoscript/fileName/MathUtility.cs: ecc9c359cf0647b867ddbca0f78166eb -> 7101ed9f86b2bfdaf67ab4303cc98ede
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 71e0e2098b7ff66e84da64b23134771e -> 48d4b2c934ba9c4dfc71f5c1edd53049
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: d2f5ae6ae98898b8df93f740e9b4f830 -> c4213bb88259ca88e9173f72358828a5
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 5cadaec5893b7672cb286725f6acc002 -> e8827528b0f6229a8c0bcd12f1a15720
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 9ce1a3cb1a7793be9ceee29b12528d1a -> 89b608f8fd139ce8d12318c6ffc11310
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: 60031b38770ecfe0671ba4c202dfa724 -> d8a27b8787df350ae61a698ef53e5d49
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 8ad7eacebf5153dd4bc679725658252b -> 072e031db5bbf098e79987e2ab2e6415
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 1945df61e5cc6df1b859e245704f56c9 -> 81379e00ae2b5ce5cabbbaee7a2dcc3b
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: 8b7dc529856d504c92f2293ef092e0ad -> d6ff3f82563bc8b5b53669110b89ef7f
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: 177100052ffa6c0f81d91a34a7733418 -> aa0caa3b2cf92bd9fd4fb50854e801fa
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bd9ad379230c9eb18d1d8c44d9129503 -> 611b649e5b76c72f256c1fa17cb65915
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: c6a02f5c7233e9fc872415e7a7efc158 -> 2d9ed55d97ae69e39f7e3f328b4b572b
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/IntDatum.cs: cfb0aef05b7f81eae7736de31104143e -> eba3d5990e1ba42fccdc328943c9a374
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: a5bc1d18d6982a1f05f22b357dfc255d -> 7a5c2af227f416da1bff9c8980c8c67c
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: d6d449820c7b9b48d5965d8d1eb79ada -> 7ae964814ae51b3db69ee982b4487eb7
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: 15ddc77450faceef98df210c2a68e127 -> c3e8d16f0025fde8dfae950741c9e809
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: f713f1fe3e0ed2e08157e300fdde14af -> ee194275fc072b5305145812281b99b4
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: 3b0b8d46bf6737b564cc7ba3d9e6ae39 -> cf53e16640493eed09c0a9bcf5e6d26a
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: 5e2b1981a6626185f8efe176408b3d2a -> d35f98e49313ad0817835473a2d39b7f
+  custom:scripting/monoscript/fileName/BuildValidator.cs: fccf90c1003d806a2b7b8510402be9af -> c3aeddb666325043f13d5a964eeb8e0d
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 3aead3ea42ce2d74457699d1ce4f6e9a -> 5cab67c578494ca6880fc9efed7eda83
+  custom:scripting/monoscript/fileName/EventBinding.cs: ab61fca8f80fe4ed725c16ca83ff2ad6 -> 57939feae70c39d5d7b259d56a13d4da
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 37734bf0fd04da41ff0ae1a2c4706cf4 -> 69465d1ffaffee63daa703ad5e20aa30
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 56661a5e0e7e488b93f66899985b3e88 -> 301b8bc5f1c67ccc31545d311cc07034
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: ce07d292941660b4bfea097178c03097 -> bc8db2fc4add667bd74ebc1d7aeedf63
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: 51b038bc4e852c72ee65c7a4ded847c0 -> d832ed1fb4bcff52c32231feef759588
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: 2478f62897f9bc6719dd3de0a34b5d28 -> b8f84d6112ffc5b06d2d522a8c830bb0
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: c424a794ff5343e1a4d1deac8768c4f5 -> d95eb104a3ef3c6ae92507bce7881df3
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: f4106e217b7471899a43772a7539f916 -> 8dbcd6e4694a7a32290a3c4a4ec7effa
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: a4e10c64acb0ef940e82832217c6893c -> 3d475b7a59d03e48e843cee54ceb3c66
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: d51ecd082d1c3727bad04dc3e44b0081 -> 7a005b62071f13d631a735bf21acdb5f
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 1fe94a48488975b1213f20cc06be7d0e -> 0c9e3ca7d66e4634b955f155129c5358
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 2ca71424fc3faa3305b7504f47a75016 -> 9320588873bc402103b6c71239087d46
+  custom:scripting/monoscript/fileName/FloatDatum.cs: e4d15c550a5a13169d386339a3f48290 -> 6bf8df8dd116e6869317b96cc2832ced
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: a53f96815da50de15010b1c479bc70cf -> 0cdf409b5aa8d4c25876d72b5c6a3b60
+  custom:scripting/monoscript/fileName/PackageVersion.cs: b2f2b6988db73d24ca0d7f31dcc43abb -> 0f86b0866157a0dbfedd6e4123adccda
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: 4ea770391709186c9d1bd0968fd90e73 -> fc1b8263d625f16a6826517266eeadca
+  custom:scripting/monoscript/fileName/ListExtensions.cs: b7503261624f5e07b7528187b02adfaa -> 7aa01450824b139fec139620e85f6e1f
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: e68cefa459ba9b045d16c31ad91e14fb -> 77ae464d731fc089fa2dce81bad0a315
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: 18fa29af8143793e43df1ed9fc727d5b -> aa5c1a415a84802ad5740b78a5ea2ab8

@@ -1,0 +1,17 @@
+
+=== Sat Dec 20 21:15:14 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 2.2.0 to 2.7.1
+  com.unity.polyspatial from version 1.0.3 to 1.3.12
+  com.unity.polyspatial.visionos from version 1.0.3 to 1.3.12
+  com.unity.polyspatial.xr from version 1.0.3 to 1.3.12
+  com.unity.render-pipelines.universal from version 14.0.10 to 14.0.12
+  com.unity.timeline from version 1.7.6 to 1.7.7
+  com.unity.xr.arfoundation from version 5.1.1 to 5.2.0
+  com.unity.xr.core-utils from version 2.4.0-exp.3 to 2.5.2
+  com.unity.xr.interaction.toolkit from version 2.5.2 to 2.6.4
+  com.unity.xr.visionos from version 1.0.3 to 1.3.12
