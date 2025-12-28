@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|F:\\Unity\\Project\\VR-Vision\\VR Vision\\assets\\_project\\_scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|F:\\Unity\\Project\\VR-Vision\\VR Vision\\assets\\_project\\_scripts\\textinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\textinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|F:\\Unity\\Project\\VR-Vision\\VR Vision\\assets\\_project\\_scripts\\generatorinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\generatorinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|f:\\unity\\project\\vr-vision\\vr vision\\assets\\_project\\_scripts\\repairiteminteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C2ABA-A87B-A537-48C4-CDF8339676D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\repairiteminteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepairItemInteract.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\RepairItemInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\RepairItemInteract.cs",
+              "ToolTip": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\RepairItemInteract.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\RepairItemInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:44:18.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "generatorInteract.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\generatorInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\generatorInteract.cs",
+              "ToolTip": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\generatorInteract.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\generatorInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:34:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextInteract.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\TextInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\TextInteract.cs",
+              "ToolTip": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\TextInteract.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\TextInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:13:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\GameState.cs",
+              "ToolTip": "F:\\Unity\\Project\\VR-Vision\\VR Vision\\Assets\\_Project\\_Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:45:53.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
